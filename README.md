@@ -12,4 +12,3 @@
 
 ---
 
-Este proyecto ha sido desarrollado como parte de un trabajo en equipo durante nuestros estudios. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. ¡Gracias por tu interés en **Mi Restaurante**!
